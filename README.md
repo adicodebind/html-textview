@@ -100,6 +100,8 @@ htmlTextView.setText(formattedHtml);
 * ``<div>`` handled exactly like ``<p>``
 * ``<br>``
 * ``<b>``
+* ``<del>``
+* ``<span>``
 * ``<i>``
 * ``<strong>`` ([bug on some Android versions: generates italic](https://code.google.com/p/android/issues/detail?id=3473))
 * ``<em>`` ([bug on some Android versions: generates bold](https://code.google.com/p/android/issues/detail?id=3473))
